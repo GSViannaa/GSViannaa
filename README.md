@@ -3,4 +3,5 @@
 
 
 ![Dark](https://github-readme-stats.vercel.app/api?username=gsviannaa&theme=dark&show_icons=true)
+[![Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=gsviannaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
